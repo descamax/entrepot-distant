@@ -1,3 +1,6 @@
-#fichier REAME.md
+#Fichier README.md
 
-il ne contient pas grand chose. Pour quitter les options, vi, il faut faire "échap" puis majZZ
+Il ne contient pas grand chose pour le moment !
+
+Ecrasera-t-il l'autre fichier ? S'il n'indique pas la commande ESC+MAJZZ? c'est la cas !
+
